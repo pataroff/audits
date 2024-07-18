@@ -13,7 +13,7 @@ If you are looking for a private audit, either fixed pay or pay-per-vulnerabilit
 ### [Code4rena](https://code4rena.com/@Pataroff)
 | Contest | Date | Keywords | High Risk | Medium Risk | Report
 |:--:|:--:|:--:|:--:|:--:|:--:|
-| [DYAD](https://code4rena.com/audits/2024-04-dyad#top) | April 2024 | Stablecoin | -  | 1 | Pending |
+| [DYAD](https://code4rena.com/audits/2024-04-dyad#top) | April 2024 | Stablecoin | -  | 1 | [Link](https://code4rena.com/reports/2024-04-dyad) |
 
 
 ## Contacts
