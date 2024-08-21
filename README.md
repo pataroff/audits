@@ -1,6 +1,6 @@
 ## Pataroff - Smart Contract Security Researcher
 
-I'm Pataroff, a "good guy" contributing to the security of the web3 space.
+I'm Pataroff, a good guy contributing to the security of the web3 space.
 
 Currently working independently and active in auditing contests on Code4rena, Sherlock and Cantina.
 
