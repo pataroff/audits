@@ -2,7 +2,7 @@
 
 I'm Pataroff, a good guy contributing to the security of the web3 space.
 
-Currently working independently and active in auditing contests on Code4rena, Sherlock and Cantina.
+Currently working independently and active in auditing contests on Code4rena, Sherlock, CodeHawks and Cantina.
 
 If you are looking for a private audit, either fixed pay or pay-per-vulnerability, reach out to me on one of my socials.
 * Twitter: [@pataroff_](https://twitter.com/pataroff_)
