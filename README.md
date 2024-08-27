@@ -15,6 +15,11 @@ If you are looking for a private audit, either fixed pay or pay-per-vulnerabilit
 |:--:|:--:|:--:|:--:|:--:|:--:|
 | [DYAD](https://code4rena.com/audits/2024-04-dyad#top) | April 2024 | Stablecoin | -  | 1 | [Link](https://code4rena.com/reports/2024-04-dyad) |
 
+### [CodeHawks](https://codehawks.cyfrin.io/profile/clt5lwffa00041t7kv1ihqz04)
+| Contest | Date | Keywords | High Risk | Medium Risk | Report
+|:--:|:--:|:--:|:--:|:--:|:--:|
+| [Fjord](https://codehawks.cyfrin.io/c/2024-08-fjord/) | August 2024 | Staking | 1  | - | [Link](https://codehawks.cyfrin.io/c/2024-08-fjord/results) |
+
 
 ## Contacts
 * Twitter: [@pataroff_](https://twitter.com/pataroff_)
